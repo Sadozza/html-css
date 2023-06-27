@@ -10,13 +10,14 @@ body {
 }
 
 header {
-    background-color: aliceblue;
-    width: 1000px;
+    background-color: rgb(67, 11, 75);
+    width: 1500px;
     height: 67px;
 }
 
-header > li {
+header li {
     margin: 10px;
+    left: 550px;
 }
 
 #logo {
